@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978841262409",
+    "firebase_url": "https://mpipproject-270214.firebaseio.com",
+    "project_id": "mpipproject-270214",
+    "storage_bucket": "mpipproject-270214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978841262409:android:899e2ed425543a343b6298",
+        "android_client_info": {
+          "package_name": "com.example.android.spacelaunchmanifest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978841262409-ra43u0svr30addarr4ade7tmqlat2ut7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAVqp3L_AVPGNPJnNwDFS8LnV-cxvkFCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978841262409-ra43u0svr30addarr4ade7tmqlat2ut7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
